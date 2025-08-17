@@ -8,6 +8,10 @@ enableGitInfo = true
 defaultContentLanguage = 'de'
 BookMenuBundle = '/menu'
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [languages]
   [languages.de]
     languageName = 'Deutsch'
