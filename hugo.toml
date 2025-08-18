@@ -1,4 +1,4 @@
-baseURL = 'http://0.0.0.0:1313/'
+baseURL = 'https://3d-print.ing-krinke.de/'
 languageCode = 'de-DE'
 title = '3D-Druck-Kurs'
 
