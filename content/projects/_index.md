@@ -1,4 +1,5 @@
 ---
 bookFlatSection: true
-title: Projekte
+title: "GTA: Projekte"
+weight: 4
 ---
