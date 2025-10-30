@@ -44,6 +44,7 @@ Die folgende Anleitung verwendet die Maße für das 2-Euro-Stück. Für andere M
 | 26,75 mm | 24,25 mm | 25,25 mm | 23,25 mm | 20,75 mm | 22,25 mm | 19,75 mm | 17,25 mm |
 
 3. Setze seinen Zustand auf **„Bohrung“**. Dieser Zylinder ist die Vertiefung für die Münzen.
+
     ![](tinkercad-cylinder.png)
 
 4. Erstelle nun den äußeren Zylinder des Bechers. Der Durchmesser soll <u>**29,27&nbsp;mm**</u> betragen. Bei diesem Durchmesser bleibt später ein äußerer Rand von 1,26&nbsp;mm. Die Durchmesser der anderen Zylinder findest du in der folgenden Tabelle:
@@ -56,9 +57,11 @@ Die folgende Anleitung verwendet die Maße für das 2-Euro-Stück. Für andere M
 6. Markiere nun die beiden Zylinder, indem du mit der Maus einen Rahmen um beide ziehst.
 
 7. Klicke oben rechts auf **„Ausrichten“**.
+
     ![](/images/tinkercad-alignment-annotated.png)
 
 8. Klicke auf die **drei** im nächsten Bild markierten schwarzen Kreise. Dadurch zentrierst du die beiden Zylinder und sorgst dafür, dass ein Boden unter der Bohrung entsteht.
+
     ![](tinkercad-alignment-markers-annotated.png)
 
 9. Jetzt kannst Du die beiden Zylinder **gruppieren**. Damit ein neuer Körper entsteht, erzeugen wir dazu eine **Vereinigungsgruppe**. Den Knopf dazu findest du ebenfalls oben rechts. Das Ergebnis sollte wie im rechten Bild aussehen.
@@ -82,11 +85,15 @@ Die folgende Anleitung verwendet die Maße für das 2-Euro-Stück. Für andere M
 15. Füge dazu eine neue Zylinder-Bohrung hinzu. Der Durchmesser ist nicht so wichtig. Wir nehmen einfach die voreingestellten **20&nbsp;mm**. Vergrößere die Höhe, bis er höher als der entsprechende Münzbecher ist, z.&nbsp;B. auf **30&nbsp;mm**. Verschiebe die Bohrung etwas an den Rand des Münzbechers.
 
 16. Dupliziere die Bohrung über den Knopf oben links. Jeder Münzbecher benötigt eine Bohrung.
+
     ![](/images/tinkercad-duplicate-annotated.png)
+
+    <p></p>
 
     ![](tinkercad-recess.png)
 
-17. Danach kannst du alle Münzbecher und Bohrungen **vereinigen**, indem du wieder eine **Vereinigungsgruppe** erstellt. Den Knopf dazu findest du wieder oben rechts (siehe Schritt&nbsp;9). Das Ergebnis könnte wie im folgenden Bild aussehen. 
+17. Danach kannst du alle Münzbecher und Bohrungen **vereinigen**, indem du wieder eine **Vereinigungsgruppe** erstellt. Den Knopf dazu findest du wieder oben rechts (siehe Schritt&nbsp;9). Das Ergebnis könnte wie im folgenden Bild aussehen.
+
     ![](tinkercad-coin-tower.png)
 
     Damit ist der Münzturm fertig. Vielleicht schaffst du auch einen kompletten Münzturm wie auf dem Bild ganz oben?
