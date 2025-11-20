@@ -19,7 +19,7 @@ Tinkercad kann nämlich auch Bilder importieren und in ein dreidimensionales Obj
 >
 > Vektorgrafiken bestehen stattdessen aus Linien und Kurven und können dadurch beliebig vergrößert werden.
 >
-> Eine Vektorgrafik könnte z.&nbsp;B. so beschrieben werden: *„Nimm ein quadratisches Blatt und zeichne eine blaue Linie von links unten nach rechts oben“*. Dieses Bild in jeder beliebigen Größe erzeugt werden und es bleibt immer scharf.
+> Eine Vektorgrafik könnte z.&nbsp;B. so beschrieben werden: *„Nimm ein quadratisches Blatt und zeichne eine blaue Linie von links unten nach rechts oben“*. Dieses Bild kann in jeder beliebigen Größe erzeugt werden und es bleibt immer scharf.
 >
 > Vektorgrafiken können mit dem Programm **Inkscape** erstellt und verändert werden.
 
