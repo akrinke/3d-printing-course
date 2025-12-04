@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="470"
+   height="463"
+   viewBox="0 0 470 463"
+   sodipodi:docname="tinkercad-import-svg-annotated.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   inkscape:export-filename="tinkercad-import-svg-annotated.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <rect
+       x="322.84706"
+       y="299.3284"
+       width="121.86942"
+       height="82.849825"
+       id="rect2" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.8708549"
+     inkscape:cx="185.47671"
+     inkscape:cy="218.34938"
+     inkscape:window-width="2479"
+     inkscape:window-height="1412"
+     inkscape:window-x="81"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1">
+    <image
+       width="470"
+       height="463"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       xlink:href="tinkercad-import-svg.png"
+       id="image1" />
+    <rect
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:6.99999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect1"
+       width="193.49443"
+       height="80.177238"
+       x="119.19685"
+       y="299.86292"
+       ry="40.088619" />
+    <text
+       xml:space="preserve"
+       id="text1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';text-align:start;letter-spacing:0.3px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect2);shape-padding:0.534515;opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:6.99999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none"
+       x="309.71985"
+       y="0"
+       transform="translate(5.879665,3.1302314)"><tspan
+         x="323.38281"
+         y="314.02128"
+         id="tspan1">Setze den </tspan><tspan
+         x="323.38281"
+         y="333.2213"
+         id="tspan4"><tspan
+   style="font-style:italic;-inkscape-font-specification:'Noto Sans Bold Italic'"
+   id="tspan2">größeren</tspan> der </tspan><tspan
+         x="323.38281"
+         y="352.42131"
+         id="tspan8">beiden Werte </tspan><tspan
+         x="323.38281"
+         y="371.62132"
+         id="tspan9">auf 70</tspan></text>
+  </g>
+</svg>
