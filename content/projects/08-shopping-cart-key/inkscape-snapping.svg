@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="138.56"
+   height="242.56"
+   viewBox="0 0 138.56 242.56"
+   sodipodi:docname="snapping.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   inkscape:export-filename="snapping-annotated.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="4.8029354"
+     inkscape:cx="69.3326"
+     inkscape:cy="121.28"
+     inkscape:window-width="2540"
+     inkscape:window-height="1351"
+     inkscape:window-x="10"
+     inkscape:window-y="42"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g1" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1">
+    <image
+       width="138.56"
+       height="242.56"
+       preserveAspectRatio="none"
+       xlink:href="snapping.png"
+       id="image1" />
+    <rect
+       style="fill:none;stroke:#ff0000"
+       id="rect1"
+       width="54.590519"
+       height="10.210815"
+       x="4.4484782"
+       y="4.9115663" />
+    <path
+       style="fill:none;stroke:#ff0000"
+       d="M 12.985083,53.760789 H 35.475526"
+       id="path1" />
+  </g>
+</svg>

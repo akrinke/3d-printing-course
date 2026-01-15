@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="208"
+   height="226.24001"
+   viewBox="0 0 208 226.24001"
+   sodipodi:docname="grid.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   inkscape:export-filename="grid-annotated.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="3.6411748"
+     inkscape:cx="67.285976"
+     inkscape:cy="101.75287"
+     inkscape:window-width="2540"
+     inkscape:window-height="1351"
+     inkscape:window-x="10"
+     inkscape:window-y="42"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g1" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1">
+    <image
+       width="208"
+       height="226.24001"
+       preserveAspectRatio="none"
+       xlink:href="grid.png"
+       id="image1" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:0.893844;stroke-opacity:1"
+       id="path1"
+       cx="190.67052"
+       cy="89.629677"
+       rx="10.688636"
+       ry="6.2312374" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-opacity:1"
+       d="m 151.47645,129.3584 h 20.09193"
+       id="path2" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-opacity:1"
+       d="m 151.47645,141.73098 h 20.09193"
+       id="path3" />
+  </g>
+</svg>
