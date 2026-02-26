@@ -27,9 +27,8 @@ Es gibt insgesamt acht verschiedene Euromünzen, von der Cent-Münze bis zum 2-E
 
 Außerdem wird in der vierten Spalte der **Durchmesser eines passenden Lochs** angegeben, in das die jeweilige Münze gut hineinpasst. In der letzten Spalte findest du den Außendurchmesser des zugehörigen Zylinders. Gruppierst du später das Loch und den Zylinder, dann entsteht ein Becher mit einer Randdicke von 1,26&nbsp;mm, in den die Münzen gut hineinpassen.
 
-{{% hint %}}
-Diese Randdicke sorgt dafür, dass der Becher schnell gedruckt werden kann. Der 3D-Drucker kann dann genau drei Spuren nebeneinanderlegen und muss keine innere Füllung (Infill) drucken.
-{{% /hint %}}
+> [!NOTE]
+> Diese Randdicke sorgt dafür, dass der Becher schnell gedruckt werden kann. Der 3D-Drucker kann dann genau drei Spuren nebeneinanderlegen und muss keine innere Füllung (Infill) drucken.
 
 Für welche Münzen du deinen Halter konstruieren möchtest, kannst du selbst entscheiden. Vielleicht schaffst Du sogar einen Halter für *alle* Euromünzen?
 

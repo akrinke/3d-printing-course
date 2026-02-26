@@ -11,9 +11,8 @@ Heute wollen wir einen weihnachtlich verzierten Halter für ein batteriebetriebe
 
 ![](tinkercad-tea-light-holder.png)
 
-{{% hint danger %}}
-**Achtung:** Verwende den Halter nur unter Aufsicht eines Erwachsenen mit einem echten Teelicht!
-{{% /hint %}}
+> [!CAUTION]
+> **Achtung:** Verwende den Halter nur unter Aufsicht eines Erwachsenen mit einem echten Teelicht!
 
 {{% steps %}}
 1. Öffne Tinkercad.
@@ -52,7 +51,7 @@ Heute wollen wir einen weihnachtlich verzierten Halter für ein batteriebetriebe
 {{% /steps %}}
 
 ## Mögliche Verzierungen
-    
+
 - Füge deinen Namen oder den Namen deines Lieblingsmenschen an der Außenseite des Halters hinzu.
 - Schmücke den Teelichthalter mit (weihnachtlichen) Motiven, z.&nbsp;B. Sterne, Herzen, Schneeflocken, Schneemänner, Engel, Wichtel, Schlitten, Weihnachtsbäume usw.
 - Kombiniere den Teelichthalter mit anderen geometrischen Körpern, wie z.&nbsp;B. im folgenden Bild. Dazu solltest du die Gruppierung des Grundkörpers aufheben (über den entsprechenden Knopf oben rechts), alles markieren und neu gruppieren. Dadurch wird die Bohrung für das Teelicht von allen Körpern abgezogen, sodass wieder Platz für das Teelicht ist.
