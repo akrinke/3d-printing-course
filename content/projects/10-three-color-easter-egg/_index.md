@@ -10,7 +10,7 @@ draft: false
 
 Heute wollen wir ein dreifarbiges Osterei erstellen. Damit es leichter zu drucken ist, besteht es unterschiedlich hohen Elementen: Einer Grundplatte mit einer Höhe von 2&nbsp;mm, welche die Grundfarbe festlegt und weiteren Mustern oder Texten, die 3 oder 4&nbsp;mm hoch sind, je nachdem welche Farbe sie bekommen sollen.
 
-Das funktioniert so ähnlich, wie wenn du aus buntem Papier Muster ausschneidest und sie passend übereinander legst. Beim Drucken kann in bestimmten Höhen (nämlich bei 2&nbsp;mm, 3&nbsp;mm und 4&nsbp;mm) die Filamentfarbe gewechselt werden, sodass ein dreifarbiges Ei entsteht, so wie im folgenden Bild.
+Das funktioniert so ähnlich, wie wenn du aus buntem Papier Muster ausschneidest und sie passend übereinander legst. Beim Drucken kann in bestimmten Höhen (nämlich bei 2&nbsp;mm, 3&nbsp;mm und 4&nbsp;mm) die Filamentfarbe gewechselt werden, sodass ein dreifarbiges Ei entsteht, so wie im folgenden Bild.
 
 ![](result.png?fit=500x500)
 
