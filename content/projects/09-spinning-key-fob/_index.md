@@ -6,7 +6,7 @@ draft: false
 
 # Drehbarer Schlüsselanhänger
 
-{{< badge style="info" value="Tinkercad" >}}
+{{< badge style="info" value="Tinkercad: Codeblöcke">}}
 
 Bisher haben wir in Tinkercad Grundkörper erzeugt und kombiniert, um Objekte zu erzeugen. Die Anordnung und Veränderung der Körper passierte dabei mit der Maus. Für komplizierte Objekte kann diese Vorgehensweise aber zu langwierig und ungenau sein. Deshalb wollen wir heute einen drehbaren Schlüsselanhänger erstellen, indem wir die Konstruktion mit Codeblöcken beschreiben.
 
