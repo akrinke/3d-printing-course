@@ -1,0 +1,13 @@
+{{- $destination := partial "docs/links/portable-image" (dict "Page" .Page "Destination" (.Get "src")) -}}
+{{- $attributes := partial "docs/text/mapper" (dict
+  "attributes" (cond .IsNamedParams .Params dict)
+  "keep" (slice "id" "class" "tabindex" "alt" "title" "loading")
+) -}}
+{{- $key := "book-image-id" -}}
+{{- .Page.Store.Set $key ((.Page.Store.Get $key | default 0) | add 1) -}}
+{{- $id := printf "%d" (.Page.Store.Get $key) -}}
+<label class="book-image" pos="{{ .Position }}" for="book-image-toggle-{{ $id }}">
+  <input class="hidden toggle" type="checkbox" id="book-image-toggle-{{ $id }}" />
+  <img src="{{ $destination | safeURL }}" {{ partial "docs/html-attrs" $attributes | safeHTMLAttr }} />
+</label>
+{{- /* remove whitespaces */ -}}
