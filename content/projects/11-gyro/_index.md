@@ -59,7 +59,12 @@ Jede Kugelschale entsteht durch das Abziehen einer kleineren von einer größere
 
     </div>
 
-    {{< image src="tinkercad-current-sphere-radius.png" >}}
+    Zur korrekten Berechnung ist es wichtig, dass die Reihenfolge der Teilrechnungen stimmt:
+    - *Als Erstes* müssen die **Klammern** ausgerechnet werden.
+    - *Als Zweites* wird **Punktrechnung** (Multiplikation und Division) ausgeführt.
+    - *Als Letztes* wird **Strichrechnung** (Addition und Subtraktion) durchgeführt.
+
+    {{< image src="tinkercad-current-sphere-radius-annotated.png" >}}
 
 3. Nun können wir die Kugelschale erzeugen, indem wir eine um die Ringdicke kleinere Kugel von einer größeren Kugel abziehen. Achte darauf, die Anzahl der Schritte auf **36** zu erhöhen.
 

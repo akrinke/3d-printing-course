@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="1760"
+   height="462"
+   viewBox="0 0 1760 462"
+   sodipodi:docname="tinkercad-current-sphere-radius-annotated.svg"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   inkscape:export-filename="tinkercad-current-sphere-radius-annotated.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <rect
+       x="1054.5021"
+       y="0"
+       width="79.387234"
+       height="76.391489"
+       id="rect4" />
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="0.60000002"
+       markerHeight="0.60000002"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid"
+       markerUnits="strokeWidth">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7" />
+    </marker>
+    <rect
+       x="1054.5021"
+       y="0"
+       width="79.387234"
+       height="76.391489"
+       id="rect5" />
+    <rect
+       x="1054.5021"
+       y="0"
+       width="79.387234"
+       height="76.391489"
+       id="rect6" />
+    <rect
+       x="1054.5021"
+       y="0"
+       width="79.387234"
+       height="76.391489"
+       id="rect7" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.94414826"
+     inkscape:cx="874.8626"
+     inkscape:cy="287.56077"
+     inkscape:window-width="2479"
+     inkscape:window-height="1412"
+     inkscape:window-x="81"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1">
+    <image
+       width="1760"
+       height="462"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       xlink:href="tinkercad-current-sphere-radius.png"
+       id="image1" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:15;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle)"
+       d="m 847.95271,166.78775 c -0.32234,85.99572 64.73118,83.64338 64.73118,83.64338"
+       id="path2"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:12;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle)"
+       d="m 1205.9989,170.53243 c 3.318,27.95317 -13.0545,39.83062 -13.0545,39.83062"
+       id="path1"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:15;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle)"
+       d="m 1417.9479,72.421792 c 1.8202,64.276578 -62.4844,64.919978 -62.4844,64.919978"
+       id="path3"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:10;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle)"
+       d="m 1067.2424,267.95515 v 15.4824"
+       id="path4"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       id="text4"
+       style="font-weight:bold;font-size:64px;line-height:0.7;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';letter-spacing:0.3px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect4);fill:#ff0000;stroke-width:12;stroke-dasharray:none"
+       transform="translate(128.68741,21.712692)"><tspan
+         x="1054.502"
+         y="40.632011"
+         id="tspan1">1.</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text5"
+       style="font-weight:bold;font-size:64px;line-height:0.7;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';letter-spacing:0.3px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect5);fill:#ff0000;stroke-width:12;stroke-dasharray:none"
+       transform="translate(-610.51259,115.32971)"><tspan
+         x="1054.502"
+         y="40.632011"
+         id="tspan2">1.</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text6"
+       style="font-weight:bold;font-size:64px;line-height:0.7;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';letter-spacing:0.3px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect6);fill:#ff0000;stroke-width:12;stroke-dasharray:none"
+       transform="translate(-2.3764198,119.07439)"><tspan
+         x="1054.502"
+         y="40.632011"
+         id="tspan3">2.</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text7"
+       style="font-weight:bold;font-size:64px;line-height:0.7;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';letter-spacing:0.3px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect7);fill:#ff0000;stroke-width:12;stroke-dasharray:none"
+       transform="translate(-130.08909,185.95077)"><tspan
+         x="1054.502"
+         y="40.632011"
+         id="tspan4">3.</tspan></text>
+  </g>
+</svg>
