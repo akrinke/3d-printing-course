@@ -1,10 +1,10 @@
 ---
-title: 03 Schlüsselanhänger
+title: 03 Symbol-Schlüsselanhänger
 bookToc: true
 draft: false
 ---
 
-# Schlüsselanhänger
+# Symbol-Schlüsselanhänger
 
 {{< badge style="info" value="Tinkercad" >}}
 
